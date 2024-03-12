@@ -12,3 +12,4 @@ E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\refint\demo.dll
 E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.pdb
 E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\ref\demo.dll
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.sourcelink.json
