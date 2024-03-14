@@ -1,0 +1,14 @@
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.AssemblyInfoInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.AssemblyInfo.cs
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.csproj.CoreCompileInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Property\bin\Debug\net8.0\Property.exe
+E:\Programming\Dot_NET_practice_6th_sem\Property\bin\Debug\net8.0\Property.deps.json
+E:\Programming\Dot_NET_practice_6th_sem\Property\bin\Debug\net8.0\Property.runtimeconfig.json
+E:\Programming\Dot_NET_practice_6th_sem\Property\bin\Debug\net8.0\Property.dll
+E:\Programming\Dot_NET_practice_6th_sem\Property\bin\Debug\net8.0\Property.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.dll
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\refint\Property.dll
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\Property.genruntimeconfig.cache
+E:\Programming\Dot_NET_practice_6th_sem\Property\obj\Debug\net8.0\ref\Property.dll
