@@ -1,0 +1,15 @@
+E:\Programming\Dot_NET_practice_6th_sem\demo\bin\Debug\net8.0\demo.exe
+E:\Programming\Dot_NET_practice_6th_sem\demo\bin\Debug\net8.0\demo.deps.json
+E:\Programming\Dot_NET_practice_6th_sem\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+E:\Programming\Dot_NET_practice_6th_sem\demo\bin\Debug\net8.0\demo.dll
+E:\Programming\Dot_NET_practice_6th_sem\demo\bin\Debug\net8.0\demo.pdb
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.dll
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\refint\demo.dll
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.pdb
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\ref\demo.dll
+E:\Programming\Dot_NET_practice_6th_sem\demo\obj\Debug\net8.0\demo.sourcelink.json
