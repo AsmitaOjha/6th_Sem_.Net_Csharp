@@ -1,0 +1,15 @@
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\bin\Debug\net8.0\Inheritance.exe
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\bin\Debug\net8.0\Inheritance.dll
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.dll
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+E:\Programming\Dot_NET_practice_6th_sem\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

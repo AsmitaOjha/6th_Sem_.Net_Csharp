@@ -1,0 +1,15 @@
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.sourcelink.json
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\bin\Debug\net8.0\Indexers.exe
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\bin\Debug\net8.0\Indexers.deps.json
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\bin\Debug\net8.0\Indexers.dll
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\bin\Debug\net8.0\Indexers.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.dll
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.pdb
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+E:\Programming\Dot_NET_practice_6th_sem\Indexers\obj\Debug\net8.0\ref\Indexers.dll
