@@ -1,0 +1,15 @@
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Programming\Dot_NET_practice_6th_sem\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
