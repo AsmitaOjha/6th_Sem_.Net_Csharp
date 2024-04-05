@@ -7,3 +7,12 @@ public void LearnFileHandling(){
     Console.WriteLine(ReadFile);
 }
 }
+int main()
+{
+    /*Find the max of a and b */
+    int a=20, b-30;
+    if(a<b)
+        return(b);
+    else
+        return(a);
+}
